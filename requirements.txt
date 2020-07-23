@@ -13,7 +13,6 @@ dash-dangerously-set-inner-html==0.0.2
 dash-enterprise-auth==0.0.3
 dash-html-components==1.0.2
 dash-renderer==1.2.2
-dash-snapshots==1.1.2
 dash-table==4.5.1
 decorator==4.4.2
 defusedxml==0.6.0
